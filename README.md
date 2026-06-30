@@ -4,14 +4,14 @@ Multimodal PDF Search Engine is a Python-based AI application that enables seman
 
 Features:
 
-*PDF text extraction using PyMuPDF
-*Automatic image extraction from PDF pages
-*Fixed-size text chunking with overlap
-*Multimodal embeddings using OpenAI CLIP
-*Semantic search using cosine similarity
-*Retrieval of both text and image results
-*Interactive Streamlit-based user interface
-*Metadata tracking (PDF name, page number, chunk information)
+* PDF text extraction using PyMuPDF
+* Automatic image extraction from PDF pages
+* Fixed-size text chunking with overlap
+* Multimodal embeddings using OpenAI CLIP
+* Semantic search using cosine similarity
+* Retrieval of both text and image results
+* Interactive Streamlit-based user interface
+* Metadata tracking (PDF name, page number, chunk information)
 
 How to Use:
 
