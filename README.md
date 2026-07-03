@@ -1,4 +1,4 @@
-Multimodal PDF Search Engine
+Multimodal PDF Search Engine  ~ Semantic search across PDF text and figures using multimodal CLIP embeddings and Streamlit.
 
 Multimodal PDF Search Engine is a Python-based AI application that enables semantic search across technical PDF documents by retrieving both relevant text passages and extracted figures. It uses CLIP multimodal embeddings to represent text and images in a shared embedding space, allowing natural language queries to return the most semantically similar content instead of relying on keyword matching.
 
