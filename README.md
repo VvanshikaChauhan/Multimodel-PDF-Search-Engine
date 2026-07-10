@@ -90,6 +90,6 @@ Future Improvements:
 * Support for multiple embedding models
 * Hybrid keyword and vector search
 
-License:This project is licensed under the MIT License.
+License: This project is licensed under the MIT License.
 
-Contributions:Feel free to fork the repository, open an issue, or submit a pull request with improvements or additional features.
+Contributions: Feel free to fork the repository, open an issue, or submit a pull request with improvements or additional features.
